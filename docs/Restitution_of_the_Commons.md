@@ -49,6 +49,6 @@ The DAO remembers: steward of the commons.”*
 
 
 **Seal:**  
-![Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?
 
+![Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw)
 ✦ CODEXSTONE OFFICIAL SEAL ✦
