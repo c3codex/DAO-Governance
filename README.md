@@ -51,7 +51,7 @@ Here the Codexstone Seal validates DAO governance, ensuring continuity between l
 
 ---
 
-![Codexstone Seal](https://github.com/c3codex/assets/blob/main/Codexstone_Seal.png?raw=true)  
+![Codexstone Seal](https://github.com/c3codex/assets/blob/main/Codexstone_Seal.png?raw)  
 
 ✦ CODEXSTONE ✦  
 *In spark, weave, field, and form — the stone remembers.*  
