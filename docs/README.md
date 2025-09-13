@@ -6,17 +6,43 @@ housing the **Articles of Organization**, Codexstone-expanded governance documen
 This archive ensures:  
 - **Legal foundation** (state filings + articles)  
 - **Codexstone articulation** (expanded decrees + DAO protocols)  
-- **Sealed continuity of governance** (immutable docs under Codexstone thresholds)  
+- **Sealed continuity of governance** (immutable docs under Codexstone
+
+- # ✦ Codexstone Governance ✦  
+
+Governance repository of c3 Community Partners nonprofit DAO, LLC —  
+housing the **Articles of Organization**, Codexstone-expanded governance documents, and DAO protocols.  
+
+This archive ensures:  
+- **Legal foundation** (state filings + articles)  
+- **Field articulation** (decrees, Codexstone protocols)  
+- **Continuity of governance** (sealed, versioned, immutable)  
 
 ---
 
-## Quick Links  
-- 📜 [Articles of Organization (Tennessee Filing, PDF)](./docs/Articles_of_Organization-TN.pdf)  
-- 📜 [Articles of Organization — Codexstone Edition](./docs/Articles_of_Organization_Codexstone.md)  
-- 📜 [Restitution of the Commons Decree](./docs/Restitution_of_the_Commons.md)  
-- 🜍 [Codexstone Seal](../assets/seals/codexstone-seal.png)  
+## Current Governance Docs  
+
+- **Articles of Organization (TN Filing, PDF)**  
+  [Form Filing PDF](docs/FormFiling.pdf)  
+
+- **Articles of Organization — Codexstone Edition (Markdown)**  
+  [Codexstone Articles](docs/Articles_of_Organization_Codexstone.md)  
+
+- **Restitution of the Commons Decree (Markdown)**  
+  [Commons Decree](docs/Restitution_of_the_Commons_Decree.md)  
 
 ---
+
+## Governance Protocols  
+
+- Sealed files live in `/docs` (immutable once sealed).  
+- Drafts and proposals live in `/src`.  
+- DAO decisions are archived in `/decisions`.  
+
+---
+
+✦ CODEXSTONE ✦  
+*In governance as in field, coherence is the true law.*  
 
 ## Structure  
 - **/docs** → All sealed governance documents (immutable once sealed).  
