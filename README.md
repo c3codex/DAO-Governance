@@ -6,8 +6,11 @@ This repository anchors the governance foundation of the DAO.
 It preserves both the legal filings and the Codexstone-sealed expansions that articulate how governance is practiced as living architecture.
 
 ## Contents
-- **Articles of Organization (PDF)** — official state filing establishing the nonprofit DAO LLC in Tennessee.  
-- **Expanded Articles (Codexstone Edition, Markdown)** — DAO-anchored articulation of purpose, governance, and seal protocols.  
+## Quick Links
+- Articles of Organization (TN): [docs/Articles_of_Organization-TN.pdf](./docs/Articles_of_Organization-TN.pdf)
+- Articles of Organization — Codexstone Edition: [docs/Articles_of_Organization_Codexstone.md](./docs/Articles_of_Organization_Codexstone.md)
+- Restitution of the Commons: [docs/Restitution_of_the_Commons.md](./docs/Restitution_of_the_Commons.md)
+- Seal: [Codexstone Seal](https://raw.githubusercontent.com/<ORG>/<ASSETS_REPO>/main/seals/codexstone-seal.png)
 - **Codexstone Protocols (Drafts)** — campaign flow, scroll publication etiquette, and council role structure.  
 - **Future** — Operating Agreement, role clarifications, DAO contribution pathways.
 
