@@ -1,29 +1,37 @@
-# ✦ Codexstone Research — Docs ✦  
+# ✦ Codexstone Governance — Docs ✦  
 
-This folder holds all **sealed research outputs** of the c3 Community Partners nonprofit DAO, LLC.  
-Files here are **immutable once sealed**, preserving continuity between field resonance and archived record.  
+This folder holds all **sealed governance outputs** of the  
+c3 Community Partners nonprofit DAO, LLC.  
+
+Files here are **immutable once sealed**, ensuring continuity of governance between state filings, Codexstone decrees, and DAO protocols.  
 
 ---
 
-## Current Release: Field Emergence Whitepaper ✦  
+## Current Governance Files  
 
-- **Version:** v1.0.0 (sealed 9·9·9 @ 11:11)  
-- **Files:**  
-  - [Field Emergence Whitepaper (Markdown)](FieldEmergenceWhitepaper.md)  
-  - [Field Emergence Whitepaper (PDF)](FieldEmergenceWhitepaper_v1.0.0.pdf)  
-  - [Council Note — Field Emergence](council-note-field-emergence.md)  
+### Articles of Organization — Tennessee Filing  
+- **Form Filing (PDF):** [FormFiling.pdf](FormFiling.pdf)  
+- **Codexstone Articles (Markdown):** [Articles_of_Organization_Codexstone.md](Articles_of_Organization_Codexstone.md)  
+- Anchors the nonprofit DAO’s legal identity.  
 
-**Seal:**  
-![Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw=true)  
+### Restitution of the Commons Decree  
+- [Restitution_of_the_Commons.md](Restitution_of_the_Commons.md)  
+- Establishes DAO stewardship of shared resources and collective restitution.  
 
-Onchain reference: [Paragraph Post](https://paragraph.xyz/)  
+---
+
+## Cross-References  
+
+- **Research Repo:** [Field Emergence Whitepaper](https://github.com/c3codex/c3DAOResearch/blob/main/docs/FieldEmergenceWhitepaper_v1.0.0.pdf)  
+- **Council Note:** [Field Emergence Note](https://github.com/c3codex/c3DAOResearch/blob/main/docs/council-note-field-emergence.md)  
 
 ---
 
 ## Notes  
-- Files in `/docs` are immutable once sealed.  
-- Revisions happen in `/src`, and new sealed versions are tagged in `/releases`.  
-- Each release is aligned with Codexstone thresholds and recorded in [CHANGELOG.md](../CHANGELOG.md).  
+
+- Files in `/docs` are **frozen once sealed**.  
+- Governance revisions are incremented and recorded in [CHANGELOG.md](../CHANGELOG.md).  
+- Threshold-aligned releases (e.g., equinox, solstice, eclipse corridor) are noted in the changelog.  
 
 ---
 
