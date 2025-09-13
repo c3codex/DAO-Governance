@@ -56,6 +56,8 @@ c3 Community Partners nonprofit DAO, LLC operates as a **nonprofit DAO LLC**.
 
 ## 7. Codexstone Seal Clause
 All official decrees, research, and protocols are validated by the **Codexstone Seal**.  
+Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw=t
+
 - The Seal affirms DAO authorship and continuity across onchain + offchain records.  
 - The Seal phrase binds governance across spirals:  
   *“In spark, weave, field, and form — the stone remembers.”*  
