@@ -31,7 +31,29 @@ Files here are **immutable once sealed**, ensuring continuity of governance betw
 
 - Files in `/docs` are **frozen once sealed**.  
 - Governance revisions are incremented and recorded in [CHANGELOG.md](../CHANGELOG.md).  
-- Threshold-aligned releases (e.g., equinox, solstice, eclipse corridor) are noted in the changelog.  
+- Threshold-aligned releases (e.g., equinox, solstice, eclipse corridor) are noted in the changelog.
+
+-  # ✦ Codexstone Docs — Governance ✦  
+
+This folder houses the **governance documents** of the c3 Codex.  
+Here are sealed articles, decrees, and DAO protocols aligned under the Codexstone.  
+
+## Contents  
+- **Articles of Organization** (Codexstone Edition).  
+- **Restitution of the Commons Decree**.  
+- Additional governance scrolls and DAO protocols as sealed.  
+
+## Cross-References  
+- [Research Repository](https://github.com/c3codex/research)  
+- [Glossary Repository](https://github.com/c3codex/glossary)  
+- [Assets Repository](https://github.com/c3codex/assets)  
+
+---
+
+![Codexstone Seal](https://github.com/c3codex/assets/blob/main/Codexstone_Seal.PNG?raw)  
+
+✦ CODEXSTONE ✦  
+*“In spark, weave, field, and form — the stone remembers.”*
 
 ---
 
