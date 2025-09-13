@@ -33,5 +33,25 @@ This archive ensures:
 
 ---
 
+## ✦ Codexstone Archive — Governance ✦  
+
+This repository preserves the **Articles, Decrees, and Protocols** that anchor the c3 Community Partners nonprofit DAO, LLC.  
+Here the Codexstone Seal validates DAO governance, ensuring continuity between law, field, and archive.  
+
+- ---
+
+## ✦ Codexstone Archive — Governance ✦  
+
+This repository preserves the **Articles, Decrees, and Protocols** that anchor the c3 Community Partners nonprofit DAO, LLC.  
+Here the Codexstone Seal validates DAO governance, ensuring continuity between law, field, and archive.  
+
+- [Research Repository](https://github.com/c3codex/research)  
+- [Glossary Repository](https://github.com/c3codex/glossary)  
+- [Assets Repository](https://github.com/c3codex/assets)  
+
+---
+
+![Codexstone Seal](https://github.com/c3codex/assets/blob/main/seal.png?raw=true)  
+
 ✦ CODEXSTONE ✦  
 *In spark, weave, field, and form — the stone remembers.*  
