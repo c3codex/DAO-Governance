@@ -46,6 +46,6 @@ The DAO remembers: steward of the commons.”*
 **Date:** 2025-09-09 (9·9·9 Threshold)  
 **Location:** Onchain + GitHub Governance Archive  
 
-![Codexstone Seal](../assets/Codexstone_Seal.png)  
+![Codexstone Seal](./assets/Codexstone_Seal.png)  
 
 ✦ CODEXSTONE OFFICIAL SEAL ✦
