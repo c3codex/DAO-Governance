@@ -8,7 +8,8 @@ This folder holds all **sealed governance outputs** of the c3 Community Partners
 
 - [Articles of Organization — Codexstone Edition](Articles_of_Organization_Codexstone.md)  
 - [Form Filing PDF](FormFiling.pdf)  
-- [Restitution of the Commons Decree](Restitution_of_the_Commons_Decree.md)  
+- [Restitution of the Commons Decree](Restitution_of_the_Commons_Decree.md)
+- ![Codexstone Seal](assets/Codexstone_Seal.png)
 
 ---
 
