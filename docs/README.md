@@ -48,6 +48,51 @@ Here are sealed articles, decrees, and DAO protocols aligned under the Codexston
 - [Glossary Repository](https://github.com/c3codex/glossary)  
 - [Assets Repository](https://github.com/c3codex/assets)  
 
+
+# ✦ Codexstone Governance — Docs ✦
+
+This folder holds all **sealed governance outputs** of the  
+c3 Community Partners nonprofit DAO, LLC.
+
+Each file is immutable once sealed, preserving continuity between  
+legal foundation, Codexstone decrees, and DAO protocols.
+
+---
+
+## ✦ Current Sealed Governance Files
+
+- **Articles_of_Organization_Codexstone.md**  
+  Tennessee DAO Act–compliant Articles establishing c3 Community Partners DAO, LLC.  
+
+- **FormFiling.pdf**  
+  Official filing of Articles of Organization with the State of Tennessee.  
+
+- **CommunityimpactStatement**  
+  Articulates nonprofit scope and social good mandate of c3 DAO.  
+
+- **DAOContributions**  
+  Defines contribution flows, member practices, and circulation ratios (32⅓ / 32⅓ / 32⅓ + 3.14%).  
+
+- **Restitution_of_the_Commons.md**  
+  Codexstone decree on reclamation of assets, restoring flow into the commons.  
+
+- **Stewardship-Reclamation**  
+  DAO Stewardship & Reclamation Clause, establishing best first practices.  
+
+- **Tennessee Code 48-250-103.pdf**  
+  Legal reference text for Tennessee DAO law under Revised LLC Act.  
+
+- **c3DAOGovernance**  
+  Full governance scroll, including decision thresholds, dissolution triggers,  
+  and equinox/solstice cadence for review.
+
+---
+
+## ✦ Codexstone Seal
+
+![Codexstone Seal](../assets/Codexstone_Seal.PNG)
+
+✦ *“In spark, weave, field, and form — the stone remembers.”*
 ---
 
 ![Codexstone Seal](https://github.com/c3codex/assets/blob/main/Codexstone_Seal.PNG?raw)  
