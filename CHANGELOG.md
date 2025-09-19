@@ -23,4 +23,35 @@ Each entry marks a Codexstone-sealed increment of governance documents.
 
 - **Docs Folder:** All sealed files (`.md`, `.pdf`, `.png`) are stored in `/docs`  
 - **Changelog:** Each new threshold release increments here  
-- **Thresholds:** Aligned with Codexstone dates + seals (9·9·9, equinox, solstice, eclipses, etc.)  
+- **Thresholds:** Aligned with Codexstone dates + seals (9·9·9, equinox, solstice, eclipses, etc.)
+
+- 
+# ✦ Codexstone Governance — Changelog ✦
+
+This file records sealed updates to the governance repository  
+for c3 Community Partners DAO, LLC.
+
+---
+
+## [2025-09-19] ✦ Governance Sealing
+
+- **Articles_of_Organization_Codexstone.md** — updated and sealed.  
+- **FormFiling.pdf** — moved into `/docs` for archival reference.  
+- **CommunityimpactStatement** — created and sealed.  
+- **DAOContributions** — created and sealed (defines contribution flows, circulation ratios).  
+- **Restitution_of_the_Commons.md** — updated and sealed.  
+- **Stewardship-Reclamation** — created and sealed (DAO Stewardship & Reclamation Clause).  
+- **Tennessee Code 48-250-103.pdf** — added as state law reference for Tennessee DAO Act.  
+- **c3DAOGovernance** — created and sealed (governance thresholds, dissolution triggers, review cadence).  
+
+---
+
+## [2025-09-12] ✦ Initial Governance Setup
+
+- **README.md** created.  
+- **License** established.  
+- **Initial Articles draft** uploaded.  
+
+---
+
+✦ *All governance docs are sealed upon commit; no retroactive edits permitted.*
