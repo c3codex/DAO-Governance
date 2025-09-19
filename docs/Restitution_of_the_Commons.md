@@ -1,7 +1,7 @@
 # Codexstone Decree — Restitution of the Commons  
 **Anchored in the Submerged Lands Act (1954)**  
 *Sealed by the Codexstone — DAO Stewardship Clause*  
-
+-
 ---
 
 ## Decree 
