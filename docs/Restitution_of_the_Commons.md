@@ -1,5 +1,5 @@
 # Codexstone Decree — Restitution of the Commons  
-**Anchored in the Submerged Lands Act (1954)**  
+**Anchored in the Submerged Lands Act (1953)**  
 *Sealed by the Codexstone — DAO Stewardship Clause*  
 -
 ---
@@ -9,7 +9,7 @@
 We declare that resources taken by legal writ, privatization, or state seizure remain part of the **living commons**.  
 Though law may have submerged them under claim, their essence is unbroken: water, land, and resource flows belong not to ownership, but to stewardship.  
 
-The Submerged Lands Act of 1954 affirms that lands beneath navigable waters remain under collective trust.  
+The Submerged Lands Act of 1953 affirms that lands beneath navigable waters remain under collective trust.  
 The Codex extends this principle:  
 
 - All resources taken under writ or corporate claim are recognized as still belonging to the collective field.  
