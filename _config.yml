@@ -1,0 +1,32 @@
+title: c3 Community Partners DAO
+description: A living circuit of Connect · Contribute · Create
+theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+# Site URL (update if you change domain)
+url: https://c3communitypartners.xyz
+baseurl: ""
+
+logo: https://github.com/c3codex/assets/blob/main/Codexstone_Seal.PNG?raw=true
+favicon_ico: https://github.com/c3codex/assets/blob/main/Codexstone_Seal.PNG?raw=true
+
+color_scheme: dark
+
+# Top-right external links
+aux_links:
+  Paragraph (c3codex):
+    - https://paragraph.com/@c3codex
+  Zora (mints):
+    - https://zora.co
+  Farcaster @c3codex:
+    - https://warpcast.com/c3codex
+  GitHub Org:
+    - https://github.com/c3codex
+
+# Search in sidebar
+search_enabled: true
+
+# Collections (optional; we’ll use simple pages for now)
+# collections:
+#   docs:
+#     output: true
