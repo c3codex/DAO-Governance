@@ -50,7 +50,19 @@ for c3 Community Partners DAO, LLC.
 
 - **README.md** created.  
 - **License** established.  
-- **Initial Articles draft** uploaded.  
+- **Initial Articles draft** uploaded.
+
+- # ✦ Changelog — c3 DAO Governance ✦
+
+All notable changes to this repository will be documented here.  
+Format follows **Codexstone Ledger style**: YYYY.MM.DD — description.
+
+---
+
+## [2025.09.28]
+- Renamed key governance scrolls with `.md` extension for consistent Markdown rendering.
+- Improved readability across documents (Governance Scroll, Council Decrees, Ledger entries).
+- No content changes to scrolls — format alignment only.
 
 ---
 
