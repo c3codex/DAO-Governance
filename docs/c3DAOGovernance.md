@@ -36,7 +36,7 @@ Roles may evolve, but never fewer than four. New roles emerge only by DAO affirm
 
 ## IV. Membership  
 
-- Membership is established by **contribution** (time, presence, art, resource).  
+- Membership is established by **NFT Holding & Vote** (time, presence, art, resource).  
 - No dues are required; **contribution is breath**.  
 - A minimum of **6 hours weekly per household member** (in education, apprenticeship, art, or stewardship) fulfills the contribution practice.  
 - Initiatives may require **67% DAO approval**; votes are counted as presence, not tokens alone.  
@@ -66,17 +66,16 @@ All intake flows in the following proportions:
 - **32⅓%** — DAO continuity, expansion, and technology.  
 - **32⅓%** — Direct contribution back to members.  
 - **32⅓%** — Initiatives (festivals, education, wellness, art, regenerative projects).  
-- **3.14% (π)** — Legacy Fund for active Founders’ Bloodline (minimum 4 generations).  
+- **3.14% (π)** — Legacy Fund   
 
 ---
 
 ## VII. Governance Process  
 
-- **Proposal:** Members propose initiatives via Codexstone or smart contracts (c3Dapp).  
-- **Deliberation:** Circles and Council hold space for refinement.  
-- **Voting:** Requires 67% DAO approval for initiatives involving assets.  
-- **Execution:** Sealed by Codexstone and enacted through smart contract or Council action.  
-
+ **Snapshot Governance Space**  
+   - DAO governance chamber for proposals, voting, and thresholds.  
+   - Currently NFT-based voting with whitelist validation.  
+   - [Read more → Snapshot Governance](snapshot.md) 
 ---
 
 ## VIII. Cyclical Review  
