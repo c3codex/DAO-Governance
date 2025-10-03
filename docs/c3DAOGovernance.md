@@ -75,7 +75,7 @@ All intake flows in the following proportions:
  **Snapshot Governance Space**  
    - DAO governance chamber for proposals, voting, and thresholds.  
    - Currently NFT-based voting with whitelist validation.  
-   - [Read more → Snapshot Governance](https://snapshot.box/#/profile/0xee9C3372A7EB84e84eD1B6d17daAcdD39686b59C.md) 
+   - [Read more → Snapshot Governance](https://snapshot.box/#/profile/0xee9C3372A7EB84e84eD1B6d17daAcdD39686b59C) 
 ---
 
 ## VIII. Cyclical Review  
